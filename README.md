@@ -1,6 +1,6 @@
 # Hey, I'm Iven 👋
 
-IT graduate from the Philippines.
+Web Developer | AI Enthusiast
 
 I enjoy building web applications, automating repetitive work, and learning new technologies. Most of my experience comes from working with Laravel, PHP, JavaScript, SQL databases, and automation tools.
 
