@@ -3,8 +3,7 @@
 Web Developer | AI Enthusiast
 
 I enjoy building web applications, automating repetitive work, and learning new technologies. Most of my experience comes from working with Laravel, PHP, JavaScript, SQL databases, and automation tools.
-
-<img width="1376" height="768" alt="Young_man_sketch_traits_icons_202605291829" src="https://github.com/user-attachments/assets/d7961ce2-d66d-4ec8-b61a-9fbf93e5077c" />
+<img width="900" height="350" alt="fall" src="https://github.com/user-attachments/assets/d725e89c-e6b4-4b75-8d26-66388c0fc4ea" />
 
 
 Lately, I've been spending time learning Python, Flask, AI automation, APIs, and workflow systems.
