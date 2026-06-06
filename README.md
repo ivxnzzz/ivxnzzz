@@ -4,6 +4,8 @@ IT graduate from the Philippines.
 
 I enjoy building web applications, automating repetitive work, and learning new technologies. Most of my experience comes from working with Laravel, PHP, JavaScript, SQL databases, and automation tools.
 
+<img width="1376" height="768" alt="Young_man_sketch_traits_icons_202605291829" src="https://github.com/user-attachments/assets/d7961ce2-d66d-4ec8-b61a-9fbf93e5077c" />
+
 Lately, I've been spending time learning Python, Flask, AI automation, APIs, and workflow systems.
 
 ### Currently exploring
