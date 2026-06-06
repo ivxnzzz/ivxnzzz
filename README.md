@@ -15,7 +15,7 @@ Lately, I've been spending time learning Python, Flask, AI automation, APIs, and
 🌐 Modern Web Development  
 
 ### Tech I work with
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,mysql,postgres,tailwindcss,python,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,mysql,postgres,tailwindcss,python,git,github,chatgpt,claude)](https://skillicons.dev)
 
 ### Outside of work
 I enjoy experimenting with new tools, building side projects, and finding better ways to solve everyday problems.
