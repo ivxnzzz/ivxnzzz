@@ -15,8 +15,7 @@ Lately, I've been spending time learning Python, Flask, AI automation, APIs, and
 🌐 Modern Web Development  
 
 ### Tech I work with
-Laravel • PHP • JavaScript • MySQL • PostgreSQL • Tailwind CSS • Livewire • Python • Git
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,postgres,tailwindcss,python,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,mysql,postgres,tailwindcss,python,git)](https://skillicons.dev)
 
 ### Outside of work
 I enjoy experimenting with new tools, building side projects, and finding better ways to solve everyday problems.
