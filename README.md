@@ -6,6 +6,7 @@ I enjoy building web applications, automating repetitive work, and learning new 
 
 <img width="1376" height="768" alt="Young_man_sketch_traits_icons_202605291829" src="https://github.com/user-attachments/assets/d7961ce2-d66d-4ec8-b61a-9fbf93e5077c" />
 
+
 Lately, I've been spending time learning Python, Flask, AI automation, APIs, and workflow systems.
 
 ### Currently exploring
