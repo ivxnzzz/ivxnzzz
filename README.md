@@ -1,6 +1,3 @@
-<img width="3840" height="2160" alt="hello-world-pixel-3840x2160-15168" src="https://github.com/user-attachments/assets/d0cdaeea-3f80-4a5d-badb-7293b4c1a320" />
-
-
 # Hey, I'm Iven 👋
 
 Web Developer | AI Enthusiast
