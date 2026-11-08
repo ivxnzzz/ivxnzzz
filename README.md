@@ -1,12 +1,30 @@
+```bash
+iven@github:~$ whoami
+```
+
 # Hi, I'm Iven
 
-**Web Developer | GIS Practitioner | Automation Enthusiast**
+`Web Developer` · `GIS Practitioner` · `Automation Enthusiast`
 
-I enjoy building practical web applications, exploring GIS technologies, and automating everyday tasks.
+I build practical web applications, explore GIS technologies, and automate everyday tasks.
 
-- **Web:** PHP, Laravel, JavaScript, React, Tailwind CSS
-- **GIS:** QGIS, PostGIS, Leaflet
-- **Automation:** Python, Make, n8n
-- **Database:** PostgreSQL, MySQL, SQLite
+```bash
+iven@github:~$ cat skills.txt
+```
 
-*Always learning, building, and improving.*
+```yaml
+web:        Laravel, PHP, JavaScript, React, Tailwind CSS
+gis:        QGIS, PostGIS, Leaflet
+automation: Python, Make, n8n
+database:   PostgreSQL, MySQL, SQLite
+```
+
+```bash
+iven@github:~$ echo $STATUS
+```
+
+`Always learning, building, and improving.`
+
+```bash
+iven@github:~$ █
+```
