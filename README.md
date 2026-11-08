@@ -1,4 +1,4 @@
-# iven.plugin
+# iven
 
 `Developer` · `Plugin Builder` · `GIS Enthusiast`
 
