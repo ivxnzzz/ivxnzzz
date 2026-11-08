@@ -1,25 +1,28 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=39D353&background=0D1117&center=true&vCenter=true&width=650&height=90&lines=iven%40github%3A~%24+whoami;Hi%2C+I'm+Iven;Web+Developer+%7C+GIS+Practitioner;Automation+Enthusiast" alt="Terminal typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2500&pause=1200&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=600&height=65&lines=%24+whoami;Hi%2C+I'm+Iven.;Web+Developer+%2F+GIS+Practitioner;Automation+Enthusiast" alt="Typing animation" />
 
 </div>
 
-```bash
-iven@github:~$ cat about.txt
+```text
+~ $ cat about.txt
 ```
 
 I build practical web applications, explore GIS technologies,
 and automate everyday tasks.
 
-```yaml
-web:        [Laravel, PHP, JavaScript, React, Tailwind CSS]
-gis:        [QGIS, PostGIS, Leaflet]
-automation: [Python, Make, n8n]
-database:   [PostgreSQL, MySQL, SQLite]
+```text
+~ $ cat stack.txt
+
+WEB         Laravel · React · JavaScript
+GIS         QGIS · PostGIS · Leaflet
+AUTOMATION  Python · Make · n8n
+DATABASE    PostgreSQL · MySQL · SQLite
 ```
 
-```bash
-iven@github:~$ echo $STATUS
+```text
+~ $ echo $STATUS
+
 Always learning, building, and improving.
 ```
