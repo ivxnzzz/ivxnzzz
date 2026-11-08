@@ -16,8 +16,8 @@ I enjoy building practical tools, plugins, and web applications that make everyd
   "stack": {
     "web": ["Laravel", "JavaScript", "React"],
     "gis": ["QGIS", "PostGIS", "Leaflet"],
-    "automation": ["Python", "n8n"],
-    "database": ["PostgreSQL", "MySQL"]
+    "automation": ["Python", "Make.com", "Zapier"],
+    "database": ["PostgreSQL", "MySQL, SQLite"]
   },
   "status": "Always building."
 }
